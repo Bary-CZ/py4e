@@ -26,3 +26,4 @@ print ("vítej", name) #počká než uživatel něco napíše!
 inp = input("Zadej číslo vytahu v eu a dostaneš podlaží usa")
 usf = int(inp) + 1
 print('usa podlaží', usf )
+#oprava
