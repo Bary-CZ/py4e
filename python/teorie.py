@@ -27,3 +27,12 @@ inp = input("Zadej číslo vytahu v eu a dostaneš podlaží usa")
 usf = int(inp) + 1
 print('usa podlaží', usf )
 #oprava
+#if else elif
+x = 2
+if x < 2 :
+    print("small")
+elif x < 10 : #elif bůže výt více
+    print("medium")
+else :
+    print("Large")
+print("all done")

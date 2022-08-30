@@ -7,3 +7,10 @@ if x > 20:
 
 print("finis")
 #indentation
+#this ↓ doesn't work for some reason
+x = 4
+if x > 2 :
+    print ("Bigger")
+else :
+    print("smaller")
+print "All done"
