@@ -36,3 +36,30 @@ elif x < 10 : #elif bůže výt více
 else :
     print("Large")
 print("all done")
+
+#den 3 v pythonu 30.srpna 2022
+#functions
+def thing() :  #zapamutuje si,kod který můžeme využít vícekrát! thing() = pojmenovani
+    print("hello")
+    print("fun")
+thing() #function můžeme přivolat vicekrát v kodu!
+print("zip")
+thing() #function můžeme přivolat vicekrát v kodu!
+#určíme funkci def
+
+#if statementx
+x = 5
+if x < 10:
+    print('smaller')
+if x > 20:
+    print("bigger")
+
+print("finis")
+#indentation
+#this ↓ doesn't work for some reason
+x = 4
+if x > 2 :
+    print ("Bigger")
+else :
+    print("smaller")
+print "All done"
