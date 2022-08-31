@@ -13,6 +13,5 @@ greet("cz") # = = en
 
 #return statement
 
-
 print(greet("en") , "Pepis")
 print(greet("fr") , "Bary")
